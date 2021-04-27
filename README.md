@@ -1,1 +1,2 @@
-# Hammer-hitting-objects
+# Geologist
+Geologist Project
